@@ -1,0 +1,14 @@
+---
+title: "R for Data Science _Activity in Sec Math"
+author: "MC SANTOS"
+format: html
+editor: visual
+---
+
+## Introduction
+
+## What Will you Learn
+
+Review the pipeline because sir will make it a part of our exam
+
+![pipeline](r4dspics/r4dspic1.jpg)
