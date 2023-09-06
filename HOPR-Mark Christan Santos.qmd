@@ -1,0 +1,67 @@
+---
+title: "HANDS ON PROGRAMING WITH R activity in sec math 17"
+author: "Mark Christan Santos"
+format: html
+editor: visual
+---
+
+## Chapter 1The Very Basics
+
+```{r}
+4+4
+```
+
+```{r}
+100:130
+```
+
+```{r}
+5-2
+```
+
+```{r}
+2*3
+```
+
+```{r}
+4-1
+```
+
+```{r}
+2+2
+3*3
+9^6
+65*2
+(21*21)^3
+```
+
+```{r}
+a <-1
+a
+```
+
+```{r}
+a+2
+```
+
+## Creating a Die
+
+```{r}
+die <- 1:6
+```
+
+```{r}
+die -1
+```
+
+```{r}
+die/2
+```
+
+```{r}
+die * die
+```
+
+```{r}
+abc <- 1:5
+```
