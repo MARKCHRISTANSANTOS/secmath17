@@ -15,9 +15,17 @@ Review the pipeline because sir will make it a part of our exam
 
 ## The Tidyverse
 
-to install the tidyverse use the code: `install.packages("tidyverse")`.
+to install the tidyverse use the code:
+
+`install.packages("tidyverse")`.
 
 ```{r}
 # loading the tidyverse package 
 lybrary (package)
 ```
+
+install.packages(
+
+We also installed other packaged by typing in the console the following code:
+
+`c("arrow","babynames","curl","duckdb","gapminder","ggrepel","ggridges","ggthemes","hexbin""janitor","Lahman","leaflet","maps""nycflights13","openxlsx","palmerpenguins","repurrrsive","tidymodels","writexl"))`
