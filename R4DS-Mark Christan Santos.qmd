@@ -21,6 +21,3 @@ to install the tidyverse use the code: `install.packages("tidyverse")`.
 # loading the tidyverse package 
 lybrary (package)
 ```
-
-```         
-```
